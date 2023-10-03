@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.github",
+    "\\.github\\classroom",
+    "\\.github\\workflows",
+    "\\exercises",
+    "\\exercises\\if",
+    "\\exercises\\intro",
+    "\\src",
+    "\\tests",
+    "\\tests\\fixture"
+  ],
+  "SelectedNode": "\\exercises\\intro\\intro1.rs",
+  "PreviewInSolutionExplorer": false
+}
