@@ -10,11 +10,13 @@
 // I AM NOT DONE
 
 fn longest(x: &str, y: &str) -> &str {
+    let z:&str;
     if x.len() > y.len() {
-        x
-    } else {
-        y
+        z=x;
+        } else {
+        z=y;
     }
+    z
 }
 
 fn main() {
